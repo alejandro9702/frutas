@@ -1,0 +1,10 @@
+.badge{
+background-color: red!important;
+color: white!important;
+border-radius: 100%!important;
+
+min-width: 1rem!important!important;
+}
+.material-icons{
+  display: inline!important;
+}

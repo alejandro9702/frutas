@@ -1,0 +1,11 @@
+{"Productos":[{"disponible":895,"nombre":"aguacate","precio":500},
+  {"disponible":4995,"nombre":"ajo","precio":100},
+  {"disponible":4994,"nombre":"zanahoria","precio":1200},
+  {"disponible":9996,"nombre":"almendras","precio":100},
+  {"disponible":994,"nombre":"arandanos","precio":200},
+  {"disponible":499,"nombre":"brocoli","precio":100},
+  {"disponible":900,"nombre":"calabaza","precio":200},
+  {"disponible":900,"nombre":"canela","precio":50},
+  {"disponible":4799,"nombre":"cebolla","precio":100}],
+  "Usuarios":[{"pass":"nextu","username":"nextu@gmail.com"},
+    {"pass":"jasiel","username":"jasiel@gmail.com"}]}
